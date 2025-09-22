@@ -1,0 +1,7 @@
+branch_ID | bank_ID | branch_name | branch_address
+----------+---------+-------------+-----------------
+101       | 1       | Delhi       | Gandhi Nagar
+102       | 2       | Punjab      | Chandigarh
+103       | 3       | M.P         | Vijay Nagar
+104       | 4       | Bangalore   | Thullianadammm
+105       | 5       | Assam       | Kaziranga
