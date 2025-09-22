@@ -1,0 +1,7 @@
+client_ID | account_ID | name    | client_address
+----------+------------+---------+-----------------------
+401       | 201        | Rajeev  | 21, Gandhi Nagar
+402       | 202        | Ravnish | 16, Vijay Nagar
+403       | 203        | Sumit   | 13, Geeta colony
+404       | 204        | Naseeb  | 11, Savedh Nagar
+405       | 205        | Tanmay  | 07, godha colony
