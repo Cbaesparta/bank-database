@@ -1,0 +1,7 @@
+account_ID | branch_ID | name    | account_type
+-----------+-----------+---------+-------------------------
+201        | 101       | Rajeev  | Salary account
+202        | 102       | Ravnish | Saving account
+203        | 103       | Naseeb  | Fixed deposit account
+204        | 104       | Ashish  | Recurring deposit account
+205        | 105       | Tanmay  | NRI account
