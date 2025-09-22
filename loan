@@ -1,0 +1,7 @@
+loan_ID | account_ID | name    | loan_type             | loan_amount
+--------+------------+---------+-----------------------+------------
+301     | 201        | Rajeev  | Personal loan         | 10000
+302     | 202        | Ravnish | Home loan             | 20000
+303     | 203        | Naseeb  | Car loan              | 15000
+304     | 204        | Ashish  | Education loan        | 25000
+305     | 205        | Tanmay  | Business loan         | 30000
